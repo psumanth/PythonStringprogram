@@ -1,3 +1,4 @@
+//Function for comparing two strings
 def compare(x,y):
     st1=""
     st2=""
@@ -38,9 +39,6 @@ def compare(x,y):
 
     else:
         print("strings are not same")
-
-    print(st1)
-    print(st2)
     
 
 
